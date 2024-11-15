@@ -50,5 +50,5 @@ The model requires the following inputs:
 - Numpy
 - Scikit-learn (for data preprocessing)
 
-
-![](https://github.com/AdityaBansal0123/ANN-Classification/blob/main/Streamlit1.pdf)
+## Example of web page
+![Screenshot](https://github.com/AdityaBansal0123/ANN-Classification/blob/main/WhatsApp%20Image%202024-11-15%20at%204.06.13%20PM.jpeg)
